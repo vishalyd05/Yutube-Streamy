@@ -75,13 +75,13 @@ To run this project, you will need to add the following environment variables to
 Clone the project
 
 ```bash
-https://github.com/gyandeeparyan/youtube-academic-clone
+https://github.com/vishalyd05/Yutube-Streamy
 ```
 
 Go to the project directory
 
 ```bash
-cd youtube-academic-clone
+cd youtube-Streamy
 ```
 
 Install dependencies
@@ -96,24 +96,8 @@ Start the server
 npm run dev
 ```
 
-### :triangular_flag_on_post: Deployment
-
-
-
-## :wave: Contributing
-
-<a href="https://github.com/gyandeeparyan/youtube-academic-clone/graphs/contributors"> <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" /> 
-
-Contributions are always welcome!
-
-see `contributing.md` for ways to get started
-
-### :scroll: Code of Conduct
-
-Please read the [Code of Conduct](https://github.com/gyandeeparyan/youtube-academic-clone/blob/master/CODE_OF_CONDUCT.md)
-
 ## :handshake: Contact
 
-Gyandeep Aryan - - gyandeeparyan.dev@gmail.com
+Vishal Yadav - - vydhoni75@gmail.com
 
-Project Link: [https://github.com/gyandeeparyan/netflix-gpt](https://github.com/gyandeeparyan/youtube-academic-clone)
+Project Link: [https://github.com/vishalyd05/Yutube-Streamy](https://github.com/vishalyd05/Yutube-Streamy)
